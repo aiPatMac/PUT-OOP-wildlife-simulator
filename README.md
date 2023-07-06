@@ -1,2 +1,2 @@
 # wildlife_simulator
-uni java project
+for Asterix and Obelix enthusiasts
